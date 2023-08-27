@@ -1,5 +1,5 @@
 function AppNav() {
-  return <div style={{ backgroundColor: 'purple' }}>App Navigation</div>;
+  return <div>App Navigation</div>;
 }
 
 export default AppNav;
