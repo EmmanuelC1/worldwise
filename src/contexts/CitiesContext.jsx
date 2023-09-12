@@ -54,7 +54,7 @@ function CitiesProvider({ children }) {
         `There was an error creating a new city object. ${err.message}`
       );
     } finally {
-      setIsLoading(true);
+      setIsLoading(false);
     }
   }
 
