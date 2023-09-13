@@ -35,42 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Agueda",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2023-09-12T03:13:26.354Z",
-      "notes": "testing loading",
-      "position": {
-        "lat": "40.6306300839918",
-        "lng": "-8.481445312500002"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Merida",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-12T03:14:41.296Z",
-      "notes": "",
-      "position": {
-        "lat": "38.89103282648846",
-        "lng": "-6.284179687500001"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Salinas",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2023-09-12T03:25:52.723Z",
-      "notes": "testing navigate",
-      "position": {
-        "lat": "36.675027776102",
-        "lng": "-121.64886474609376"
-      },
-      "id": 98443200
     }
   ]
 }
